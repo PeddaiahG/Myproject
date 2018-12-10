@@ -4,3 +4,5 @@ MENU
 1.Pen
 2.Notebook
 3.Pencil
+4.Laptop
+5.Desktop
